@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/project-foodBoutique/static/css/main.7acaea2f.css",
-    "main.js": "/project-foodBoutique/static/js/main.742ec75d.js",
+    "main.css": "/project-foodBoutique/static/css/main.5d1ed935.css",
+    "main.js": "/project-foodBoutique/static/js/main.dbeee946.js",
+    "static/media/icon.svg": "/project-foodBoutique/static/media/icon.517d77b0dd0b0fc545628f65b7d10051.svg",
+    "static/media/cart.svg": "/project-foodBoutique/static/media/cart.60a40e27b9aabee424e9f4043496a912.svg",
     "index.html": "/project-foodBoutique/index.html",
-    "main.7acaea2f.css.map": "/project-foodBoutique/static/css/main.7acaea2f.css.map",
-    "main.742ec75d.js.map": "/project-foodBoutique/static/js/main.742ec75d.js.map"
+    "main.5d1ed935.css.map": "/project-foodBoutique/static/css/main.5d1ed935.css.map",
+    "main.dbeee946.js.map": "/project-foodBoutique/static/js/main.dbeee946.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.742ec75d.js"
+    "static/css/main.5d1ed935.css",
+    "static/js/main.dbeee946.js"
   ]
 }
